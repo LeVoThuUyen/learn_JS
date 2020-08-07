@@ -1,0 +1,6 @@
+ES vs JS
+1. What is ES : 
+ES is the short-written of ECMAScript. 
+The name of its is diffirent from JavaScript, but it is JavaScript
+JavaScript is implemented by all the different browsers out there and it's up to those browsers to implement new features.
+
